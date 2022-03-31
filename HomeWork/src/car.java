@@ -6,7 +6,7 @@ public class car {
 	}
 
 	void display() {
-		System.out.println(str+" ");
+		System.out.println("This Is : "+str);
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
