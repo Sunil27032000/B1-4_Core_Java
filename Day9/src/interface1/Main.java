@@ -11,6 +11,11 @@ class Main implements Example1
 			Main m=new Main();
 			m.display();
 		}
+		@Override
+		public void displaly() {
+			// TODO Auto-generated method stub
+			
+		}
 	
 
 }
